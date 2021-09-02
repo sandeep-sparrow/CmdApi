@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using CmdApi.DAL;
 using CmdApi.Models;
